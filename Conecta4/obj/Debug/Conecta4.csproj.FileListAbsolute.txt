@@ -1,0 +1,9 @@
+C:\Users\esaud\source\repos\Conecta4\Conecta4\bin\Debug\Conecta4.exe.config
+C:\Users\esaud\source\repos\Conecta4\Conecta4\bin\Debug\Conecta4.exe
+C:\Users\esaud\source\repos\Conecta4\Conecta4\bin\Debug\Conecta4.pdb
+C:\Users\esaud\source\repos\Conecta4\Conecta4\obj\Debug\Conecta4.csprojAssemblyReference.cache
+C:\Users\esaud\source\repos\Conecta4\Conecta4\obj\Debug\Conecta4.Properties.Resources.resources
+C:\Users\esaud\source\repos\Conecta4\Conecta4\obj\Debug\Conecta4.csproj.GenerateResource.cache
+C:\Users\esaud\source\repos\Conecta4\Conecta4\obj\Debug\Conecta4.exe
+C:\Users\esaud\source\repos\Conecta4\Conecta4\obj\Debug\Conecta4.pdb
+C:\Users\esaud\source\repos\Conecta4\Conecta4\obj\Debug\Conecta4.Form1.resources
